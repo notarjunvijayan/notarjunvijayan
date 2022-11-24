@@ -11,4 +11,4 @@ Visit My Webpage :earth_asia:
 <br>https://port3-notarjunvijayan.vercel.app/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notarjunvijayan&exclude_repo=avprivate,Githubcourse,notes,payroll-management-system,portfolio,PythonLabs&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notarjunvijayan&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notarjunvijayan&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
