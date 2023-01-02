@@ -11,7 +11,7 @@ I'm Arjun<br>Or I'm not? (username pun intended)<br><br>Ok I was just kidding �
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=notarjunvijayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notarjunvijayan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notarjunvijayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=python)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=notarjunvijayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=python,powershell)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
