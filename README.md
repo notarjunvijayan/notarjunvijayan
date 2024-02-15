@@ -1,7 +1,7 @@
 # Hey, Long time no see?
 I'm Arjun<br>Or I'm not? (username pun intended)<br><br>Ok I was just kidding 😶<br>I'm Arjun V, an Engineering student in Rajagiri School of Engineering and Technology, <br>Kochi who just loves to code. Trying to learn new things that I'm geniunely interested in<br>and trying to implement them by making small-scale applications<br>(or projects, if you can call them that) for a sense of accomplishment.
 
-### 🕸️ Portfolio: www.notarjunvijayan.me
+### 🕸️ Portfolio: www.notarjunvijayan.tech
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notarjunvijayan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-v-83294622a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/notarjunvijayan) 
