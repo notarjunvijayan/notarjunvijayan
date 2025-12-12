@@ -1,5 +1,5 @@
 # Hey, Long time no see?
-I'm Arjun<br>Or I'm not? (username pun intended)<br><br>Ok I was just kidding 😶<br>I'm Arjun V, an Engineering student in Rajagiri School of Engineering and Technology, <br>Kochi who just loves to code. Trying to learn new things that I'm geniunely interested in<br>and trying to implement them by making small-scale applications<br>(or projects, if you can call them that) for a sense of accomplishment.
+I'm Arjun<br>Or I'm not? (username pun intended)<br><br>Ok I was just kidding 😶<br>I'm Arjun V, a software engineer from Kerala who just loves to code.<br> Trying to learn new things that I'm geniunely interested in<br>and trying to implement them by making small-scale applications<br>(or projects, if you can call them that) for a sense of accomplishment.
 
 ### 🕸️ Portfolio: www.notarjunvijayan.tech
 
